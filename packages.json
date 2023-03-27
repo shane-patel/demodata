@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "package": "Basic or Named Perils Insurance Policy",
+      "description": "Personal Liability Insurance Policy - Provides additional body injury or property damage caused to others.",
+      "price": 362.88
+    },
+       {
+      "id": 2,
+      "package": "Broad Insurance Policy",
+      "description": "This policy provides comprehensive coverage on the big-ticket items such as the home or apartment, as well as content coverage.",
+      "price": 1152.45
+    },
+     {
+      "id": 3,
+      "package": "Prestige Insurance Policy",
+      "description": "This policy provides extensive coverage for higher value homes with specialized insurance needs due to customizations, content and features.",
+      "price": 2654.66
+    },
+    {
+      "id": 4,
+      "package": "Personal Liability Insurance Policy",
+      "description": "Provides an additional $1M in body injury or property damage caused to others",
+      "price": 163.28
+    }
+  ]
+}
